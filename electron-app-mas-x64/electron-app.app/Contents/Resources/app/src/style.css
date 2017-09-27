@@ -1,0 +1,45 @@
+/*
+Colors:
+main:
+#6B95FF
+#678FF5
+#6389EB
+#5A7ED7
+
+secondary:
+#F5BDA8
+#F5BDA8
+#EBB6A1
+#D7A694
+
+text
+#EAF1FF
+#000000
+
+*/
+
+
+html,
+body {
+    height: 100%;
+}
+
+.navbar{
+    border-radius: 0 !important;
+    margin-bottom: 0 !important;
+    background-color: #6B95FF;
+    color: #EAF1FF;
+}
+
+.nav-link{
+    color: #EAF1FF;
+}
+
+.navbar-brand{
+    color: #EAF1FF;
+}
+
+#cs {
+    width: 100vw;
+    height: 100vh
+}
